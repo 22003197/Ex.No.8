@@ -56,9 +56,9 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 # Prompt :
 generate a image of falls falling from sky in blue color
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_8f3oxd8f3oxd8f3o" src="https://github.com/user-attachments/assets/a4d613ce-fc69-47a8-aa3c-e814a4656e8f" />
+<img width="500" height="500" alt="img-1" src="https://github.com/user-attachments/assets/7f538550-545f-4992-9c65-158222f95569" />
 
 # Prompt:
 "A mesmerizing scene of blue-colored raindrops gracefully falling from the sky, shimmering like crystals under the soft sunlight. The entire sky glows in shades of azure and sapphire, creating a dreamy and surreal atmosphere. The falling droplets leave glowing trails as they descend, painting the landscape with a magical blue hue — a breathtaking fusion of nature and fantasy."
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_eygkhweygkhweygk" src="https://github.com/user-attachments/assets/165c50ae-c9e8-49c8-9ba4-a9840b017229" />
+<img width="500" height="500" alt="img-2" src="https://github.com/user-attachments/assets/598324f6-663c-423b-8013-e15c7cd64cf7" />
